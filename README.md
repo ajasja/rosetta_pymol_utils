@@ -20,3 +20,6 @@ color_by_score total, range=-5 0 5, colors=green white red
 ```
 
 ![](example_image.png)
+
+One useful application is to visualise and adjust layers in layer design, since `p.per_res_sasa` and `p.per_res_nc` now contain numerical data that can be used wiht resiude selectors.
+
